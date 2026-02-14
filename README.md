@@ -4,7 +4,7 @@ Welcome to my personal portfolio website. This site acts as a central hub to sho
 
 ## 🌟 About Me
 
-I am a focused engineering graduate from **Jamia Millia Islamia (2025)**, currently working as a Scholar Trainee in the **Digital Workspace Services (DWS)** domain at a leading Tech MNC.
+I am a focused engineering graduate from **Jamia Millia Islamia (2025)**, currently working as a Scholar Trainee at a leading Tech MNC.
 
 My passion lies in bridging the gap between hardware and software. I am actively mastering tools like **Linux, Docker, Jenkins, and Ansible** while continuing to build innovative IoT solutions.
 
