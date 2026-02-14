@@ -26,7 +26,7 @@ This portfolio features detailed overviews of my key projects:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/YOUR-USERNAME/arbaaz-portfolio.git](https://github.com/YOUR-USERNAME/arbaaz-portfolio.git)
+    git clone- (https://github.com/arbaazak07/arbaaz-portfolio.git)
     ```
 2.  **Navigate to the folder:**
     ```bash
